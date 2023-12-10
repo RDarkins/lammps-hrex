@@ -2,7 +2,7 @@
 This package implements Hamiltonian replica exchange (HREX) into the molecular dynamics code LAMMPS. It also features a well-tempered metadynamics (WTMD) implementation with support for the hybrid WTMD-HREX method.
 
 [Accelerating Solvent Dynamics with Replica Exchange for Improved Free Energy Sampling](https://doi.org/10.1021/acs.jctc.3c00786) <br />
-Robert Darkins<sup>1</sup>, Dorothy M. Duffy<sup>1</sup>, Ian J. Ford<sup>1</sup>
+Robert Darkins<sup>1</sup>, Dorothy M. Duffy<sup>1</sup>, Ian J. Ford<sup>1</sup> <br />
 <sup>1</sup>University College London
 
 ## Installation
