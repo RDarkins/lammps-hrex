@@ -22,8 +22,9 @@ Please consult [documentation.pdf](documentation.pdf).
 
 ## Citation
 
-Please cite:
+If this package helps you in your research, please cite:
 
+```
    @article{darkins2023accelerating,
      title={Accelerating Solvent Dynamics with Replica Exchange for Improved Free Energy Sampling},
      author={Darkins, R. and Duffy, D. M. and Ford, I. J.},
@@ -35,3 +36,4 @@ Please cite:
      publisher={ACS Publications},
      doi={10.1021/acs.jctc.3c00786}
    }
+```
